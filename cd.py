@@ -1,7 +1,5 @@
 import os
+#path = os.getcwd()
 path = os.getcwd()
-print (path)
-path = 'E:\study'
-print(path)
-filder = os.listdir(path)
-print(filder)
+def gotodir(path)
+  print(path)
