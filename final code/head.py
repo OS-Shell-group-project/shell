@@ -2,10 +2,10 @@ import Input
 
 #
 def head(**kwargs):
-    if isParamsListEmpty(kwargs['params']):
+    if Input.isParamsListEmpty(kwargs['params']):
         return
 
-    file = getFullFileName(kwargs['params'][0])
+    file = Input.getFullFileName(kwargs['params'][0])
     
     if len(kwargs['params']) > 1 and str(kwargs['params'][1]).isdigit():
         noLines = int(kwargs['params'][1])

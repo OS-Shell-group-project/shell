@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import sys, os
+import Input
 import ls
 import cat
 import head
@@ -10,6 +11,8 @@ import wc
 import cd
 import mkdir
 import rm
+import history
+import who
 import exit
 import shlex
 #from CommandHelper import CommandHelper
@@ -28,6 +31,8 @@ class CommandHelper(object):
       self.commands['cd'] = cd.cd
       self.commands['mkdir'] = mkdir.mkdir
       self.commands['rm'] = rm.rm
+      self.commands['history'] = history.history
+      self.commands['who'] = who.who
       self.commands['x'] = exit.exit
 
   def invoke(self, **kwargs):
@@ -74,11 +79,13 @@ ch = CommandHelper()
 while 1: 
     command_input = input('% ')
 
+    Input.recordHistory(command_input)
+    
     command = command_input.split()[0]
 
     #shlex helps split on strings with quotes around it.
     #example - file names with spaces - "some file.txt"
-    cmd_params = shlex.split(' '.join(command_input.split()[1:],), posix=False)
+    cmd_params = shlex.split(' '.join(command_input.split()[1:],)) #, posix=False
 
     #cmd_params = command_input.split()[1:]
 

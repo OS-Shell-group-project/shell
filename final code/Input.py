@@ -33,19 +33,14 @@ def isFlagsListEmpty(flagsList):
         return False
 
 
+def recordHistory(command):
+    with open("historyList.txt") as readHistory:
+        cmdHistory = readHistory.readlines()
+    lastCommand = cmdHistory[-1]
 
+    lastCommandNumber = int(lastCommand.split(':')[0])
+    lastCommandNumber += 1
 
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
+    writeToHistory = open("historyList.txt","a")
+    writeToHistory.writelines(str(lastCommandNumber) + ':' + command + '\n')
+    writeToHistory.close()

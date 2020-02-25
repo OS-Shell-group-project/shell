@@ -1,11 +1,11 @@
-import Input
+import Input, os
 
 #
 def rm(**kwargs):
-    if isParamsListEmpty(kwargs['params']):
+    if Input.isParamsListEmpty(kwargs['params']):
         return
 
-    file = getFullFileName(kwargs['params'][0])
+    file = Input.getFullFileName(kwargs['params'][0])
 
     if file[0]:
         filePath = os.getcwd() + '\\'+ file[1]

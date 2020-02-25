@@ -1,4 +1,4 @@
-import Input
+import Input, os
 
 #
 def pwd(**kwargs):
