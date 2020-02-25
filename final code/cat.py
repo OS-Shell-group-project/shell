@@ -2,13 +2,13 @@ import Input
 
 #
 def cat(**kwargs):
-    if isParamsListEmpty(kwargs['params']):
+    if Input.isParamsListEmpty(kwargs['params']):
         return
 
     fileList = []
 
     for file in kwargs['params']:
-        file = getFullFileName(file)
+        file = Input.getFullFileName(file)
         if file[0]:
             fileList.append(file)
         else:
