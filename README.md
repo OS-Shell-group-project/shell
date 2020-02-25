@@ -6,7 +6,7 @@
 | Name                          | Email       | Github Username |
 | ----------------------------- | ----------- | --------------- |
 | [Sun] | sunshenglin12@gmail.com  | ssun111177   |
-| [Demi] | demiladefasanya@yahoo.co.uk   | Demilade   |
+| [Demi](https://github.com/Demilade/5143-OS-Fasanya.git) | demiladefasanya@yahoo.co.uk   | Demilade   |
 | [Merve] | kilikmerve@gmail.com | mervegurbuzz |
 
 #### Project Files
