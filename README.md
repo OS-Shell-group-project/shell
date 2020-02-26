@@ -9,8 +9,8 @@
 | [Demi](https://github.com/Demilade/5143-OS-Fasanya.git) | demiladefasanya@yahoo.co.uk   | Demilade   |
 | [Merve](https://github.com/mervegurbuzz/shell.git) | kilikmerve@gmail.com | mervegurbuzz |
 
-#### Project Files
 
-|Command | FileName|
-|------- | ------- |
-|        |[README.md](
+#### Directory Structure
+
+...
+/Shell Starter 
