@@ -9,6 +9,26 @@
 | [Demi](https://github.com/Demilade/5143-OS-Fasanya.git) | demiladefasanya@yahoo.co.uk   | Demilade   |
 | [Merve](https://github.com/mervegurbuzz/shell.git) | kilikmerve@gmail.com | mervegurbuzz |
 
+#### Project Files
+
+| Command | FileName       |
+| ------- | -------------- |
+|         | [README.md]     |
+|         |[CommandHelper.py]|
+|         | [Input.py]|
+| cat     | [cat.py]|
+| exit    | [exit.py]|
+| grep    | [grep.py]|
+| head    | [head.py]|
+| history | [history.py]|
+| ls      | [ls.py]|
+| mkdir   | [mkdir.py]|
+| pwd     | [pwd.py]|
+| rm      | [rm.py]|
+| tail    | [tail.py]|
+| wc      | [wc.py]|
+| who     | [who.py]|
+ 
 
 #### Directory Structure
 
