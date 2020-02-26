@@ -15,19 +15,19 @@
 | ------- | -------------- |
 |         | [README.md](README.md)     |
 |         |[CommandHelper.py](CommandHelper.py)|
-|         | [Input.py]|
-| cat     | [cat.py]|
-| exit    | [exit.py]|
-| grep    | [grep.py]|
-| head    | [head.py]|
-| history | [history.py]|
-| ls      | [ls.py]|
-| mkdir   | [mkdir.py]|
-| pwd     | [pwd.py]|
-| rm      | [rm.py]|
-| tail    | [tail.py]|
-| wc      | [wc.py]|
-| who     | [who.py]|
+|         | [Input.py](Input.py)|
+| cat     | [cat.py](cat.py)|
+| exit    | [exit.py](exit.py)|
+| grep    | [grep.py](grep.py)|
+| head    | [head.py](head.py)|
+| history | [history.py](history.py)|
+| ls      | [ls.py](ls.py)|
+| mkdir   | [mkdir.py](mkdir.py)|
+| pwd     | [pwd.py](pwd.py)|
+| rm      | [rm.py](rm.py)|
+| tail    | [tail.py](tail.py)|
+| wc      | [wc.py](wc.py)|
+| who     | [who.py](who.py)|
  
 
 #### Directory Structure
