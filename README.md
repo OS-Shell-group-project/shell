@@ -22,7 +22,7 @@
 | head    | [head.py]|
 | history | [history.py]|
 | ls      | [ls.py]|
-| mkdir   | [mkdir.py]|
+| mkdir   | [mkdir.py](final code/mkdir.py)|
 | pwd     | [pwd.py]|
 | rm      | [rm.py]|
 | tail    | [tail.py]|
