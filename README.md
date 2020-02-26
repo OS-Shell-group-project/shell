@@ -33,4 +33,5 @@
 #### Directory Structure
 
 ...
-/Shell Starter 
+/Shell Project
+
