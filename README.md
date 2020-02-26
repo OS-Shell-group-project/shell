@@ -15,19 +15,19 @@
 | ------- | -------------- |
 |         | [README.md](README.md)     |
 |         |[CommandHelper.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/CommandHelper.py)|
-|         | [Input.py](Input.py)|
-| cat     | [cat.py](cat.py)|
-| exit    | [exit.py](exit.py)|
-| grep    | [grep.py](grep.py)|
-| head    | [head.py](head.py)|
+|         | [Input.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/Input.py)|
+| cat     | [cat.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/cat.py)|
+| exit    | [exit.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/exit.py)|
+| grep    | [grep.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/grep.py)|
+| head    | [head.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/head.py)|
 | history | [history.py](history.py)|
-| ls      | [ls.py](ls.py)|
-| mkdir   | [mkdir.py](mkdir.py)|
-| pwd     | [pwd.py](pwd.py)|
-| rm      | [rm.py](rm.py)|
-| tail    | [tail.py](tail.py)|
-| wc      | [wc.py](wc.py)|
-| who     | [who.py](who.py)|
+| ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/ls.py)|
+| mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/mkdir.py)|
+| pwd     | [pwd.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/pwd.py)|
+| rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/rm.py)|
+| tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/tail.py)|
+| wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/wc.py)|
+| who     | [who.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/who.py)|
  
 
 #### Directory Structure
