@@ -32,6 +32,22 @@
 
 #### Directory Structure
 
-...
+```
 /Shell Project
 
+|--- Final Code
+|  |--- CommandHelper.py
+|  |--- Input.py
+|  |--- cat.py
+|  |--- exit.py
+|  |--- grep.py
+|  |--- head.py
+|  |--- history.py
+|  |--- ls.py
+|  |--- mkdir.py
+|  |--- pwd.py
+|  |--- rm.py
+|  |--- tail.py
+|  |--- wc.py
+|  |--- who.py
+|--- README.py
