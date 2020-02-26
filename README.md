@@ -14,7 +14,7 @@
 | Command | FileName       |
 | ------- | -------------- |
 |         | [README.md](README.md)     |
-|         |[CommandHelper.py](CommandHelper.py)|
+|         |[CommandHelper.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/CommandHelper.py)|
 |         | [Input.py](Input.py)|
 | cat     | [cat.py](cat.py)|
 | exit    | [exit.py](exit.py)|
