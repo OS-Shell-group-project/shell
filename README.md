@@ -14,7 +14,7 @@
 | Command | FileName       |
 | ------- | -------------- |
 |         | [README.md](README.md)     |
-|         |[CommandHelper.py](final code/CommandHelper.py)|
+|         |[CommandHelper.py]|
 |         | [Input.py]|
 | cat     | [cat.py]|
 | exit    | [exit.py]|
