@@ -1,0 +1,38 @@
+0: command history file1:ls
+1:ls
+2:ls
+3:x
+4:ls
+5:ls
+6:x
+7:ls-a
+8:x
+9:ls
+10:ls-a
+11:history
+12:ls-l
+13:x
+14:ls-l
+15:x
+16:lsl
+17:ls-l
+18:ls-l
+19:ls-l
+20:ls-l
+21:ls-l
+22:ls-l
+23:ls-l
+24:ls-l
+25:x
+26:lsl
+27:x
+28:lsl
+29:lsl
+30:x
+31:cd ..
+32:cd /
+33:cd E:\study\os\project\final code
+34:cdE:\study\os\project\final code
+35:x
+36:mv
+37:mv ls
