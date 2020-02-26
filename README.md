@@ -13,7 +13,7 @@
 
 | Command | FileName       |
 | ------- | -------------- |
-|         | [README.md]     |
+|         | [README.md](README.md)     |
 |         |[CommandHelper.py]|
 |         | [Input.py]|
 | cat     | [cat.py]|
