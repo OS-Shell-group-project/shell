@@ -11,6 +11,7 @@ import passw
 import grep
 import wc
 import cd
+import cdroot
 import mkdir
 import mv
 import rmr
@@ -42,6 +43,7 @@ class CommandHelper(object):
       self.commands['who'] = who.who
       self.commands['rmr'] = rmr.rmr
       self.commands['cd..'] = cdpre.cd
+      self.commands['cd~'] = cdroot.cd
       self.commands['lsh'] = lsh.ls
       self.commands['x'] = exit.exit
 
