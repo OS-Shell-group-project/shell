@@ -4,24 +4,23 @@ import Input, os
 def ls(**kwargs):
     detal='---'
     for items in os.listdir(os.getcwd()):
-            if os.R_OK == true and os.W_OK == true and os.X_OK == true:
-                detal='rwx'
-            elif os.R_OK != true and os.W_OK == true and os.X_OK == true:
-                detal='-wx'
-            elif os.R_OK == true and os.W_OK != true and os.X_OK == true:
-                detal='r-x'
-            elif os.R_OK == true and os.W_OK == true and os.X_OK != true:
-                detal='rw-'
-            elif os.R_OK != true and os.W_OK != true and os.X_OK == true:
-                detal='--x'
-            elif os.R_OK != true and os.W_OK == true and os.X_OK != true:
-                detal='-w-'
-            elif os.R_OK == true and os.W_OK != true and os.X_OK != true:
-                detal='r--'
+        size=os.path.getsize(items)
+        if os.R_OK == True and os.W_OK == True and os.X_OK == True:
+            detal='rwx'
+        elif os.R_OK != True and os.W_OK == True and os.X_OK == True:
+            detal='-wx'
+        elif os.R_OK == True and os.W_OK != True and os.X_OK == True:
+            detal='r-x'
+        elif os.R_OK == True and os.W_OK == True and os.X_OK != True:
+            detal='rw-'
+        elif os.R_OK != True and os.W_OK != True and os.X_OK == True:
+            detal='--x'
+        elif os.R_OK != True and os.W_OK == True and os.X_OK != True:
+            detal='-w-'
+        elif os.R_OK == True and os.W_OK != True and os.X_OK != True:
+            detal='r--'
 
-        print (items + detal )#type of paramater
-        # output=items+detal
-        print (os.access(os.getcwd(),os.R_OK))
+        print (items + "    "+ str(detal) +"    "+ str(size) )#type of paramater
 #future implementation
 # def ls(**kwargs):
 #     directoryItems = []
