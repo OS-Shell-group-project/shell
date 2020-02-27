@@ -2,7 +2,8 @@
 import sys, os
 import Input
 import ls
-import lsl
+import lsh
+#import lsl
 import cat
 import head
 import tail
@@ -17,6 +18,7 @@ import rm
 import history
 import who
 import exit
+import cdpre
 import shlex
 #from CommandHelper import CommandHelper
 
@@ -25,7 +27,7 @@ class CommandHelper(object):
   def __init__(self):
       self.commands = {}
       self.commands['ls'] = ls.ls
-      self.commands['lsl'] = lsl.ls
+      #self.commands['lsl'] = lsl.ls
       self.commands['cat'] = cat.cat
       self.commands['head'] = head.head
       self.commands['tail'] = tail.tail
@@ -38,7 +40,9 @@ class CommandHelper(object):
       self.commands['rm'] = rm.rm
       self.commands['history'] = history.history
       self.commands['who'] = who.who
-      self.commands['rmr'] = cd.cd
+      self.commands['rmr'] = rmr.rmr
+      self.commands['cd..'] = cdpre.cd
+      self.commands['lsh'] = lsh.ls
       self.commands['x'] = exit.exit
 
   def invoke(self, **kwargs):
