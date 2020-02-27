@@ -14,26 +14,25 @@
 | Command | FileName       | Author | Works |
 | ------- | -------------- | ------ | ----- |
 |         | [README.md](README.md) | Merve |     |
-|         | [Input.py](https://github.com/OS-Shell-group-project/shell/blob/master/Input.py)| 
-| cat     | [cat.py](https://github.com/OS-Shell-group-project/shell/blob/master/cat.py)|
-| cd      | [cd.py](https://github.com/OS-Shell-group-project/shell/blob/master/cd.py)|
-| exit    | [exit.py](https://github.com/OS-Shell-group-project/shell/blob/master/exit.py)|
-| grep    | [grep.py](https://github.com/OS-Shell-group-project/shell/blob/master/grep.py)|
-| head    | [head.py](https://github.com/OS-Shell-group-project/shell/blob/master/head.py)|
-| history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/history.py)|
-|         | [historyList.txt](https://github.com/OS-Shell-group-project/shell/blob/master/historyList.txt)
-| ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/ls.py)|
-| lsh     | [lsh.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsh.py) |
-| lsl     | [lsl.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsl.py) |
-| mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/mkdir.py)|
-| mv      | [mv.py](https://github.com/OS-Shell-group-project/shell/blob/master/mv.py) |
-| passw   | [passw.py](https://github.com/OS-Shell-group-project/shell/blob/master//passw.py)|
-| rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/rm.py)|
-| rmr     | [rmr.py](https://github.com/OS-Shell-group-project/shell/blob/master/rmr.py) |
-| tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/tail.py)|
-| test    | [test](https://github.com/OS-Shell-group-project/shell/blob/master/test.py) |
-| wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/wc.py)|
-| who     | [who.py](https://github.com/OS-Shell-group-project/shell/blob/master/who.py)|
+|         | [Input.py](https://github.com/OS-Shell-group-project/shell/blob/master/Input.py)| Demi |
+| cat     | [cat.py](https://github.com/OS-Shell-group-project/shell/blob/master/cat.py)| Demi |
+| cd      | [cd.py](https://github.com/OS-Shell-group-project/shell/blob/master/cd.py)| Sun |
+| exit    | [exit.py](https://github.com/OS-Shell-group-project/shell/blob/master/exit.py)| Demi |
+| grep    | [grep.py](https://github.com/OS-Shell-group-project/shell/blob/master/grep.py)| Demi |
+| head    | [head.py](https://github.com/OS-Shell-group-project/shell/blob/master/head.py)| Demi |
+| history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/history.py)| Demi |
+|         | [historyList.txt](https://github.com/OS-Shell-group-project/shell/blob/master/historyList.txt)| Demi |
+| ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/ls.py)| Sun |
+| lsh     | [lsh.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsh.py) | Sun |
+| lsl     | [lsl.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsl.py) | Sun |
+| mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/mkdir.py)| Demi |
+| mv      | [mv.py](https://github.com/OS-Shell-group-project/shell/blob/master/mv.py) | Sun |
+| passw   | [passw.py](https://github.com/OS-Shell-group-project/shell/blob/master//passw.py)| Demi |
+| rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/rm.py)| Demi |
+| rmr     | [rmr.py](https://github.com/OS-Shell-group-project/shell/blob/master/rmr.py) | Sun | 
+| tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/tail.py)| Demi |
+| wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/wc.py)| Demi |
+| who     | [who.py](https://github.com/OS-Shell-group-project/shell/blob/master/who.py)| Demi |
  
 
 #### Directory Structure
@@ -59,7 +58,6 @@
 |--- rm.py
 |--- rmr.py
 |--- tail.py
-|--- test.py
 |--- wc.py
 |--- who.py
 
