@@ -20,6 +20,7 @@ def ls(**kwargs):
                 detal='r--'
 
         print (items + detal )#type of paramater
+        # output=items+detal
         print (os.access(os.getcwd(),os.R_OK))
 #future implementation
 # def ls(**kwargs):
