@@ -29,7 +29,7 @@
 | mv      | [mv.py](https://github.com/OS-Shell-group-project/shell/blob/master/mv.py) |
 | passw   | [passw.py](https://github.com/OS-Shell-group-project/shell/blob/master//passw.py)|
 | rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/rm.py)|
-| rmr     | [rmr.py]() |
+| rmr     | [rmr.py](https://github.com/OS-Shell-group-project/shell/blob/master/rmr.py) |
 | tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/tail.py)|
 | test    | [test]() |
 | wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/wc.py)|
