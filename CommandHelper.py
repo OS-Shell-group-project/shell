@@ -14,6 +14,7 @@ import rm
 import history
 import getCmdFromHistory
 import copyFile
+import mv
 import sort
 import who
 import exit
@@ -36,6 +37,7 @@ class CommandHelper(object):
       self.commands['rm'] = rm.rm
       self.commands['history'] = history.history
       self.commands['!'] = getCmdFromHistory.getCmdFromHistory
+      self.commands['mv'] = mv.mv
       self.commands['cp'] = copyFile.copyFile
       self.commands['sort'] = sort.sort
       self.commands['who'] = who.who
