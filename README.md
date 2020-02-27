@@ -14,7 +14,7 @@
 | Command | FileName       | Author | Works |
 | ------- | -------------- | ------ | ----- |
 |         | [README.md](README.md) | Merve |     |
-|         |[CommandHelper.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/CommandHelper.py)|
+|         | [Input.py](https://github.com/OS-Shell-group-project/shell/blob/master/Input.py)| 
 |         | [Input.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/Input.py)|
 | cat     | [cat.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/cat.py)|
 | exit    | [exit.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/exit.py)|
