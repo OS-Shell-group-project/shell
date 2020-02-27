@@ -34,6 +34,7 @@
 | pwd   | [pswd.py](https://github.com/OS-Shell-group-project/shell/blob/master//pswd.py)| Demi | 100 |
 | rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/rm.py)| Demi | 100 |
 | rm -r     | [rmr.py](https://github.com/OS-Shell-group-project/shell/blob/master/rmr.py) | Sun |  100 |
+| sort  | [sort.py](https://github.com/OS-Shell-group-project/shell/blob/master/sort.py) | Demi | 100 |
 | tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/tail.py)| Demi | 100 |
 | wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/wc.py)| Demi | 100 |
 | who     | [who.py](https://github.com/OS-Shell-group-project/shell/blob/master/who.py)| Demi | 100 |
@@ -65,6 +66,7 @@
 |--- pswd.py
 |--- rm.py
 |--- rmr.py
+|--- sort
 |--- tail.py
 |--- wc.py
 |--- who.py
