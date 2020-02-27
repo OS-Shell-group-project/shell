@@ -47,6 +47,7 @@
 |  |--- grep.py
 |  |--- head.py
 |  |--- history.py
+|  |--- history.List.txt
 |  |--- ls.py
 |  |--- lsl.py
 |  |--- mkdir.py
