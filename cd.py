@@ -4,7 +4,9 @@ def cd(**kwargs):
     #path = os.getcwd()
     #print (path)
     #os.chdir('E:\study')
-    os.chdir(kwargs['params'])#type of paramater
+    #print (kwargs['params'])
+    os.chdir(kwargs['params'][0])#type of paramater （E:\study）
+
 
     path = os.getcwd()
     print(path)
