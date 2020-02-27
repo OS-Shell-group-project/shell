@@ -23,11 +23,13 @@
 | history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/history.py)|
 |         | [historyList.txt](https://github.com/OS-Shell-group-project/shell/blob/master/historyList.txt)
 | ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/ls.py)|
+| lsh     | [lsh.py]() |
 | lsl     | [lsl.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsl.py) |
 | mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/mkdir.py)|
 | mv      | [mv.py]() |
 | passw   | [passw.py](https://github.com/OS-Shell-group-project/shell/blob/master//passw.py)|
 | rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/rm.py)|
+| rmr     | [rmr.py]() |
 | tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/tail.py)|
 | test    | [test]() |
 | wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/wc.py)|
@@ -49,11 +51,13 @@
 |--- history.py
 |--- history.List.txt
 |--- ls.py
+|--- lsh.py
 |--- lsl.py
 |--- mkdir.py
 |--- mv.py
 |--- passw.py
 |--- rm.py
+|--- rmr.py
 |--- tail.py
 |--- test.py
 |--- wc.py
