@@ -23,7 +23,7 @@
 | history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/history.py)|
 | historyList.txt | [historyList.txt](https://github.com/OS-Shell-group-project/shell/blob/master/historyList.txt)
 | ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/ls.py)|
-| lsl.py  | [lsl.py]() |
+| lsl.py  | [lsl.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsl.py) |
 | mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/mkdir.py)|
 | mv .    | [mv.py]() |
 | passw   | [passw.py](https://github.com/OS-Shell-group-project/shell/blob/master//passw.py)|
