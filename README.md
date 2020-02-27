@@ -16,7 +16,7 @@
 |         | [README.md](README.md) | Merve |     |
 |         | [Input.py](https://github.com/OS-Shell-group-project/shell/blob/master/Input.py)| Demi |
 | cat     | [cat.py](https://github.com/OS-Shell-group-project/shell/blob/master/cat.py)| Demi |
-| cd      | [cd.py](https://github.com/OS-Shell-group-project/shell/blob/master/cd.py)| Sun |
+| cd      | [cd.py](https://github.com/OS-Shell-group-project/shell/blob/master/cd.py)| Demi |
 | exit    | [exit.py](https://github.com/OS-Shell-group-project/shell/blob/master/exit.py)| Demi |
 | grep    | [grep.py](https://github.com/OS-Shell-group-project/shell/blob/master/grep.py)| Demi |
 | head    | [head.py](https://github.com/OS-Shell-group-project/shell/blob/master/head.py)| Demi |
