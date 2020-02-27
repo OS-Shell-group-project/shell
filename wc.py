@@ -2,17 +2,17 @@ import Input
 
 #
 def wc(**kwargs):
+    validFlags = ['-l','-w','-m']
+    flag = ' '
+
     if Input.isParamsListEmpty(kwargs['params']):
         return
     
-    if Input.isFlagsListEmpty(kwargs['flags']):
-        return
-    
-    validFlags = ['-l','-w','-m']
-    flag = kwargs['flags'][0]
-    if flag not in validFlags:
-        print('Unrecognized flags\n')
-        return
+    if not Input.isFlagsListEmpty(kwargs['flags']):
+        flag = kwargs['flags'][0]
+        if flag not in validFlags:
+            print('Unrecognized flags\n')
+            return
 
     lines = []
     words = []
@@ -41,5 +41,7 @@ def wc(**kwargs):
         print(str(len(lines)) + ' line(s) in ' + file[1] + '\n')
     elif flag == validFlags[1]:
         print(str(len(words)) + ' words in ' + file[1] + '\n')
-    else:
+    elif flag == validFlags[2]:
         print(str(len(chars)) + ' characters in ' + file[1] + '\n')
+    else:
+        print(str(len(lines)) + ' ' + str(len(words)) + ' ' + str(len(chars)) + ' ' + '\n')

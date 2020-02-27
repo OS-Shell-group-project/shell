@@ -1,12 +1,25 @@
-import os
+import Input, os
 
+#not yet working
 def cd(**kwargs):
-    #path = os.getcwd()
-    #print (path)
-    #os.chdir('E:\study')
-    #print (kwargs['params'])
-    os.chdir(kwargs['params'][0])#type of paramater （E:\study）
+    cwd = os.getcwd()
+    directoryList = cwd.split('\\')
 
 
-    path = os.getcwd()
-    print(path)
+    if not kwargs['params'] or kwargs['params'][0] == '~':
+        directoryList = directoryList[:5]
+        cwd = '\\'.join(directoryList)
+        os.chdir(cwd)
+        return
+
+    if not os.path.exists(cwd + '\\' + kwargs['params'][0]):
+        print('directory doesn''t exist\n')
+        return
+
+    if kwargs['params'][0] == '..':
+        directoryList = directoryList[:-1]
+        cwd = '\\'.join(directoryList)
+        os.chdir(cwd)
+        return
+    
+    os.chdir(kwargs['params'][0])
