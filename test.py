@@ -12,6 +12,7 @@ import wc
 import cd
 import mkdir
 import mv
+import rmr
 import rm
 import history
 import who
@@ -37,6 +38,7 @@ class CommandHelper(object):
       self.commands['rm'] = rm.rm
       self.commands['history'] = history.history
       self.commands['who'] = who.who
+      self.commands['rmr'] = cd.cd
       self.commands['x'] = exit.exit
 
   def invoke(self, **kwargs):
