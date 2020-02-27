@@ -2,8 +2,23 @@ import Input, os
 
 #
 def ls(**kwargs):
+    detal='---'
     for items in os.listdir(os.getcwd()):
-        detal="0"#os.access(os.getcwd(),os.R_OK)
+            if os.R_OK == true and os.W_OK == true ans os.X_OK == true:
+                detal='rwx'
+            elif os.R_OK != true and os.W_OK == true ans os.X_OK == true:
+                detal='-wx'
+            elif os.R_OK = true and os.W_OK != true ans os.X_OK == true:
+                detal='r-x'
+            elif os.R_OK == true and os.W_OK == true ans os.X_OK != true:
+                detal='rw-'
+            elif os.R_OK != true and os.W_OK != true ans os.X_OK == true:
+                detal='--x'
+            elif os.R_OK != true and os.W_OK == true ans os.X_OK != true:
+                detal='-w-'
+            elif os.R_OK == true and os.W_OK != true ans os.X_OK != true:
+                detal='r--'
+
         print (items + detal )#type of paramater
         print (os.access(os.getcwd(),os.R_OK))
 #future implementation
