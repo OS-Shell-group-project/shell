@@ -26,7 +26,7 @@
 | lsh     | [lsh.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsh.py) |
 | lsl     | [lsl.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsl.py) |
 | mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/mkdir.py)|
-| mv      | [mv.py]() |
+| mv      | [mv.py](https://github.com/OS-Shell-group-project/shell/blob/master/mv.py) |
 | passw   | [passw.py](https://github.com/OS-Shell-group-project/shell/blob/master//passw.py)|
 | rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/rm.py)|
 | rmr     | [rmr.py]() |
