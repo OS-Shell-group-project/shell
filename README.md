@@ -15,9 +15,9 @@
 | ------- | -------------- | ------ | ----- |
 |         | [README.md](README.md) | Merve |     |
 |         | [Input.py](https://github.com/OS-Shell-group-project/shell/blob/master/Input.py)| 
-| cd      | [cd.py](https://github.com/OS-Shell-group-project/shell/blob/master/cd.py)|
 | cat     | [cat.py](https://github.com/OS-Shell-group-project/shell/blob/master/cat.py)|
-| exit    | [exit.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/exit.py)|
+| cd      | [cd.py](https://github.com/OS-Shell-group-project/shell/blob/master/cd.py)|
+| exit    | [exit.py](https://github.com/OS-Shell-group-project/shell/blob/master/exit.py)|
 | grep    | [grep.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/grep.py)|
 | head    | [head.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/head.py)|
 | history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/history.py)|
