@@ -31,7 +31,7 @@
 | rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/rm.py)|
 | rmr     | [rmr.py](https://github.com/OS-Shell-group-project/shell/blob/master/rmr.py) |
 | tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/tail.py)|
-| test    | [test]() |
+| test    | [test](https://github.com/OS-Shell-group-project/shell/blob/master/test.py) |
 | wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/wc.py)|
 | who     | [who.py](https://github.com/OS-Shell-group-project/shell/blob/master/who.py)|
  
