@@ -21,7 +21,7 @@
 | grep    | [grep.py](https://github.com/OS-Shell-group-project/shell/blob/master/grep.py)|
 | head    | [head.py](https://github.com/OS-Shell-group-project/shell/blob/master/head.py)|
 | history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/history.py)|
-| historyList.txt | [historyList.txt](https://github.com/OS-Shell-group-project/shell/blob/master/historyList.txt)
+|         | [historyList.txt](https://github.com/OS-Shell-group-project/shell/blob/master/historyList.txt)
 | ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/ls.py)|
 | lsl.py  | [lsl.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsl.py) |
 | mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/mkdir.py)|
