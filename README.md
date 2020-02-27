@@ -18,16 +18,20 @@
 | cat     | [cat.py](https://github.com/OS-Shell-group-project/shell/blob/master/cat.py)|
 | cd      | [cd.py](https://github.com/OS-Shell-group-project/shell/blob/master/cd.py)|
 | exit    | [exit.py](https://github.com/OS-Shell-group-project/shell/blob/master/exit.py)|
-| grep    | [grep.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/grep.py)|
-| head    | [head.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/head.py)|
-| history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/history.py)|
-| ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/ls.py)|
-| mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/mkdir.py)|
-| pwd     | [pwd.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/pwd.py)|
-| rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/rm.py)|
-| tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/tail.py)|
-| wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/wc.py)|
-| who     | [who.py](https://github.com/OS-Shell-group-project/shell/blob/master/final%20code/who.py)|
+| grep    | [grep.py](https://github.com/OS-Shell-group-project/shell/blob/master/grep.py)|
+| head    | [head.py](https://github.com/OS-Shell-group-project/shell/blob/master/head.py)|
+| history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/history.py)|
+| historyList.txt | [historyList.txt]()
+| ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/ls.py)|
+| lsl.py  | [lsl.py]() |
+| mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/mkdir.py)|
+| mv .    | [mv.py]() |
+| passw   | [passw.py](https://github.com/OS-Shell-group-project/shell/blob/master//passw.py)|
+| rm      | [rm.py](https://github.com/OS-Shell-group-project/shell/blob/master/rm.py)|
+| tail    | [tail.py](https://github.com/OS-Shell-group-project/shell/blob/master/tail.py)|
+| test    | [test]() |
+| wc      | [wc.py](https://github.com/OS-Shell-group-project/shell/blob/master/wc.py)|
+| who     | [who.py](https://github.com/OS-Shell-group-project/shell/blob/master/who.py)|
  
 
 #### Directory Structure
@@ -35,19 +39,22 @@
 ```
 /Shell Project
 
-|--- Final Code
-|  |--- CommandHelper.py
 |  |--- Input.py
+|  |--- README.md
 |  |--- cat.py
+|  |--- cd.py
 |  |--- exit.py
 |  |--- grep.py
 |  |--- head.py
 |  |--- history.py
 |  |--- ls.py
+|  |--- lsl.py
 |  |--- mkdir.py
-|  |--- pwd.py
+|  |--- mv.py
+|  |--- passw.py
 |  |--- rm.py
 |  |--- tail.py
+|  |--- test.py
 |  |--- wc.py
 |  |--- who.py
-|--- README.py
+
