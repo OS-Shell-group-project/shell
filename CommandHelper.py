@@ -2,6 +2,8 @@
 import sys, os
 import Input
 import ls
+import lsh
+import lsl
 import cat
 import head
 import tail
@@ -9,6 +11,8 @@ import pswd
 import grep
 import wc
 import cd
+import cdpre
+import cdroot
 import mkdir
 import rm
 import history
@@ -26,6 +30,8 @@ class CommandHelper(object):
   def __init__(self):
       self.commands = {}
       self.commands['ls'] = ls.ls
+      self.commands['lsl'] = lsl.ls
+      self.commands['lsh'] = lsh.ls
       self.commands['cat'] = cat.cat
       self.commands['head'] = head.head
       self.commands['tail'] = tail.tail
@@ -33,6 +39,9 @@ class CommandHelper(object):
       self.commands['grep'] = grep.grep
       self.commands['wc'] = wc.wc
       self.commands['cd'] = cd.cd
+      self.commands['cd~'] = cdroot.cd
+      self.commands['cd..'] = cdpre.cd
+
       self.commands['mkdir'] = mkdir.mkdir
       self.commands['rm'] = rm.rm
       self.commands['history'] = history.history
