@@ -27,8 +27,8 @@
 | history | [history.py](https://github.com/OS-Shell-group-project/shell/blob/master/history.py)| Demi | 100 |
 |         | [historyList.txt](https://github.com/OS-Shell-group-project/shell/blob/master/historyList.txt)| Demi | 100 |
 | ls      | [ls.py](https://github.com/OS-Shell-group-project/shell/blob/master/ls.py)| Sun | 100 |
-| ls -h     | [lsh.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsh.py) | Sun | X |
-| ls -l     | [lsl.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsl.py) | Sun | X |
+| ls -h     | [lsh.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsh.py) | Sun | 50 |
+| ls -l     | [lsl.py](https://github.com/OS-Shell-group-project/shell/blob/master/lsl.py) | Sun | 50 |
 | mkdir   | [mkdir.py](https://github.com/OS-Shell-group-project/shell/blob/master/mkdir.py)| Demi | 100 |
 | mv      | [mv.py](https://github.com/OS-Shell-group-project/shell/blob/master/mv.py) | Sun | 100 |
 | pwd   | [pswd.py](https://github.com/OS-Shell-group-project/shell/blob/master//pswd.py)| Demi | 100 |
